@@ -1,21 +1,21 @@
 variable "subscription_id" {
   description = "subscription ID"
-  default     = "165160d8-779a-4cb0-9de8-2b73029cf92e"
+  default     = ""
 }
 
 variable "tenant_id" {
   description = "Tenant ID"
-  default     = "8d7f798d-9451-44de-a353-4c3d96d64b0c"
+  default     = ""
 }
 
 variable "client_secret" {
   description = "client secret"
-  default     = "JF88W0SrUufHZrEJ:5pS/y/KbYSKLXg["
+  default     = ""
 }
 
 variable "client_id" {
   description = "client ID"
-  default     = "3adf50a6-d335-48e3-93ae-ecf4ebdacad2"
+  default     = ""
 }
 
 variable "resource_group" {
