@@ -1,6 +1,6 @@
 variable "subscription_id" {
   description = "subscription ID"
-  default     = ""
+  default     = "po"
 }
 
 variable "tenant_id" {
